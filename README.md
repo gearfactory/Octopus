@@ -1,2 +1,2 @@
 # Octopus
-🐙Octopus is a distributed web crawler  
+🐙Octopus is a Graph DB
